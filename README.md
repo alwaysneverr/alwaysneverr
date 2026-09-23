@@ -17,20 +17,39 @@ I'm mainly a CS student trying to learn web development, game development, and s
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>|
 
 ## Game Dev
-| Ren'Py |
-|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="Ren'Py" alt="Ren'Py" width="60" height="60"/> | 
+| Ren'Py | Godot |
+|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" title="Ren'Py" alt="Ren'Py" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Ren'Py" alt="Ren'Py" width="60" height="60"/>  |
 
 ## Web Dev
-| Eleventy |
-|------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/eleventy/eleventy-original.svg" title="Eleventy" alt="Eleventy" width="60" height="60"/> | 
+| Eleventy | Vite | Saas |
+|------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/eleventy/eleventy-original.svg" title="Eleventy" alt="Eleventy" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="60" height="60"/> |
+
+### JavaScript Library
+| DiscordJS | ThreeJS |
+|-----|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="DiscordJS" alt="DiscordJS" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="ThreeJS" width="60" height="60"/> |
+
+## Container
+| Docker |
+|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/> |
+
+## OS
+| Windows <br>11 | Debian <br>13 | Ubuntu <br>(WSL2) |
+|-----|-----|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60" class="center"/> |
+
+## IDE
+| VSCode |
+|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/> |
+
+## Others
+| GIMP |
+|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="GIMP" alt="GIMP" width="60" height="60"/> |
 
 # Socials
 ![](https://dcbadge.limes.pink/api/shield/282146465923596289)
-AlwaysNever-25
-
-<!---
-AlwaysNever-25/AlwaysNever-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
