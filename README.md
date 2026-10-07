@@ -9,7 +9,7 @@ Hi! Sorry for that poor reference shoo-in above, let me introduce myself properl
 
 My name is AlwaysNever, or Al for short.
 
-I'm mainly a CS student trying to learn web development, game development, and scripts that can help me maintain wikis.
+I'm a former CS student that are dabbling in web development, game development, and very recently, ricing and distro hopping.
 
 # Languages
 | JavaScript | HTML | CSS | Python | Java |
@@ -37,9 +37,9 @@ I'm mainly a CS student trying to learn web development, game development, and s
 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/> |
 
 ## OS
-| Windows <br>11 | Debian <br>13 | Ubuntu <br>(WSL2) |
-|-----|-----|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60" class="center"/> |
+| Windows <br>11 | Debian <br>13 | Arch | Ubuntu <br>(WSL2) |
+|-----|-----|-----|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60" class="center"/> |
 
 ## IDE
 | VSCode |
